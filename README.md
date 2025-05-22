@@ -89,3 +89,6 @@ userID,itemID,rating
 * Improved skills in debugging, dataset handling, and producing clean, modular Java code.
   
 ---
+
+## Output:
+![Image](https://github.com/user-attachments/assets/bda7ca0f-b80e-4dc0-b615-8d6830e56b15)
